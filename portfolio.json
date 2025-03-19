@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Ingatlaniroda",
-        "photo url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741767838/db31a3bb-2bea-43db-9ac6-9081cafd242c.png",
+        "photo_url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741767838/db31a3bb-2bea-43db-9ac6-9081cafd242c.png",
         "repo-link": "https://github.com/Ryshh/ingatlaniroda",
         "topics":[
             "fetch API",
@@ -18,7 +18,7 @@
     {
         "id": "2",
         "title": "Virágbolt",
-        "photo url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741767121/7ec6b0c8-c7d1-45de-a2ea-80c090e65915.png",
+        "photo_url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741767121/7ec6b0c8-c7d1-45de-a2ea-80c090e65915.png",
         "repo-link": "https://github.com/Ryshh/viragBolt",
         "topics":[
             "fetch API",
@@ -32,7 +32,7 @@
     {
         "id": "3",
         "title": "Profile",
-        "photo url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766927/profile_nmt3jf.png",
+        "photo_url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766927/profile_nmt3jf.png",
         "repo-link": "https://github.com/Ryshh/profile",
         "topics":[
             "HTML/CSS",
@@ -46,7 +46,7 @@
     {
         "id": "4",
         "title": "Termék lista",
-        "photo url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766178/82838a59-51b0-4740-9d9b-8960dbc62f87.png",
+        "photo_url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766178/82838a59-51b0-4740-9d9b-8960dbc62f87.png",
         "repo-link": "https://github.com/Ryshh/termeklista",
         "topics":[
             "fetch API",
@@ -60,7 +60,7 @@
     {
         "id": "5",
         "title": "Products",
-        "photo url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766065/7825073d-3057-4ff6-b7c2-f928091cfca1.png",
+        "photo_url": "https://res.cloudinary.com/dmp0jpdeu/image/upload/v1741766065/7825073d-3057-4ff6-b7c2-f928091cfca1.png",
         "repo-link": "https://github.com/Ryshh/products",
         "topics":[
             "fetch API",
